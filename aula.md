@@ -34,8 +34,9 @@ Apresentar os dados
 
 ## Operadores
 
-[x] Operadores de atribuição de valor
-[x] Operador de contatenação
+- [x] Operadores de atribuição de valor: -
+- [x] Operador de contatenação: +
+- [x] Operadores de comparação: == , != , <= , >= , < >
 
 ## Estruturas de dados:
 
@@ -58,6 +59,7 @@ Apresentar os dados
 # Estrutura de repetição
 
 - [x] while
+- [x] if/else 
 
 # Condicionais
 
@@ -67,3 +69,7 @@ Apresentar os dados
 
 - [x] Importação de módulos (require, CommonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+
+- [x] Uso de funções assíncronas (async/await)
